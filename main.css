@@ -1,0 +1,29 @@
+
+body { 
+width  50px }
+
+body {
+  background-color: lightpink;
+}
+
+
+.wrapper {
+  background-color: "mediumVioletred;"
+}
+
+.heading {
+  background-color: {
+    mediumVioletred;
+  }
+
+.entries {
+  background-color: blue;
+}
+
+.entry {
+  background-color: green;
+}
+.padding {
+  background-color: yellow;
+}
+
