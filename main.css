@@ -81,4 +81,15 @@ body {
 
   }
 
+  #aboutme {
+    margin: 30vh 0;
+    font-size: 20px;
+
+    p {
+      color:#e27799;
+      line-height: 1.5;
+    }
   }
+
+  }
+  
